@@ -5,3 +5,7 @@ and used the BFS algorithm to see if it was possible to get from the first to th
 
 Please use the attached Makefile to compile the project.
 The executable file is called final_program and will be located in a folder called build.
+
+You also can find a valgtind tool output (verify that there is no memory leaks).
+
+I used gcc version 6.3.0
