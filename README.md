@@ -8,4 +8,4 @@ The executable file is called final_program and will be located in a folder call
 
 You also can find a valgtind tool output (verify that there is no memory leaks).
 
-I used gcc version 6.3.0
+Note: I used gcc version 6.3.0
